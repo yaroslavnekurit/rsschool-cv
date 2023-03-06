@@ -41,3 +41,9 @@ function multiply(a, b){
 
 - **_Belarusian State University Culture and Arts_**
   - _Information technology in culture_
+
+## Languages:
+
+- **_Russian_** – _native language_
+- **_Belarusian_** – _native language_
+- **_English_** – _A2_
