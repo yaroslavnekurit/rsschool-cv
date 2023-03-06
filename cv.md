@@ -28,3 +28,11 @@ I am now 21 years old and my main goal is to retire by the age of 30. By this I 
 - _Git/GitHub_
 - _VS Code_
 - _Adobe Illustrator, Photoshop, Figma_
+
+## Code Examples:
+
+```
+function multiply(a, b){
+ return a * b
+}
+```
