@@ -10,4 +10,4 @@
 
 - **E-mail:** [yaroslav2kachura@gmail.com](yaroslav2kachura@gmail.com)
 
-* # **GitHub:** [yaroslavnekurit](https://github.com/yaroslavnekurit)
+* **GitHub:** [yaroslavnekurit](https://github.com/yaroslavnekurit)
