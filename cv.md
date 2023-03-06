@@ -16,4 +16,6 @@ I am now 21 years old and my main goal is to retire by the age of 30. By this I 
 
 **Strengths:**
 
-+_Purposefulness_ +_Mental flexibility_ +_Creativity_
+- _Purposefulness_
+- _Mental flexibility_
+- _Creativity_
