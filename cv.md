@@ -36,3 +36,8 @@ function multiply(a, b){
  return a * b
 }
 ```
+
+## Education:
+
+- _*Belarusian State University Culture and Arts*_
+  - _Information technology in culture_
