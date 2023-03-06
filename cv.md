@@ -19,3 +19,12 @@ I am now 21 years old and my main goal is to retire by the age of 30. By this I 
 - _Purposefulness_
 - _Mental flexibility_
 - _Creativity_
+
+## Skills:
+
+- _HTML_
+- _CSS (SASS/SCSS/BEM)_
+- _JavaSript Basics_
+- _Git/GitHub_
+- _VS Code_
+- _Adobe Illustrator, Photoshop, Figma_
