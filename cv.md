@@ -39,5 +39,5 @@ function multiply(a, b){
 
 ## Education:
 
-- _*Belarusian State University Culture and Arts*_
+- **_Belarusian State University Culture and Arts_**
   - _Information technology in culture_
