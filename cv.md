@@ -1,7 +1,5 @@
 # Yaroslav Kachura
 
-===
-
 ## Contacts:
 
 - **Phone:** +375291901425
