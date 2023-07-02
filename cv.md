@@ -1,0 +1,49 @@
+# Yaroslav Kachura
+
+## Contacts:
+
+- **Phone:** +375291901425
+
+* **Telegram:** [@Slowq](https://t.me/Slowq)
+
+- **E-mail:** [yaroslav2kachura@gmail.com](yaroslav2kachura@gmail.com)
+
+* **GitHub:** [yaroslavnekurit](https://github.com/yaroslavnekurit)
+
+## About me:
+
+I am now 21 years old and my main goal is to retire by the age of 30. By this I mean reaching a certain standard of living in which I am doing what I love, which brings a high income and allows me to develop, travel and live independently of most external circumstances. Perhaps programming will be the very thing that will help me achieve my goal.
+
+**Strengths:**
+
+- _Purposefulness_
+- _Mental flexibility_
+- _Creativity_
+
+## Skills:
+
+- _HTML_
+- _CSS (SASS/SCSS/BEM)_
+- _JavaSript Basics_
+- _Git/GitHub_
+- _VS Code_
+- _Adobe Illustrator, Photoshop, Figma_
+
+## Code Examples:
+
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+## Education:
+
+- **_Belarusian State University Culture and Arts_**
+  - _Information technology in culture_
+
+## Languages:
+
+- **_Russian_** – _native language_
+- **_Belarusian_** – _native language_
+- **_English_** – _A2_
